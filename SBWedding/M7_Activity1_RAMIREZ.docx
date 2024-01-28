@@ -1,0 +1,10 @@
+<br />
+<b>Warning</b>:  mime_content_type(M7_Activity1_RAMIREZ.docx): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\San_Bartolome\SBWeddingDisplayDownload.php</b> on line <b>94</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $filepath in <b>C:\xampp\htdocs\San_Bartolome\SBWeddingDisplayDownload.php</b> on line <b>105</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\San_Bartolome\SBWeddingDisplayDownload.php:105
+Stack trace:
+#0 C:\xampp\htdocs\San_Bartolome\SBWeddingDisplayDownload.php(105): readfile('')
+#1 {main}
+  thrown in <b>C:\xampp\htdocs\San_Bartolome\SBWeddingDisplayDownload.php</b> on line <b>105</b><br />
